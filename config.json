@@ -30,5 +30,13 @@
     "rp_id": -4639867895,
     "rally_id": -4867332932,
     "logged_id" : -4710426943
+  },
+  "liz": {
+    "logs_id": None,
+    "status": "on",
+    "trade_id": -4925731410,
+    "rp_id": -4639867895,
+    "rally_id": -4867332932,
+    "logged_id" : -4710426943
   }
 }
