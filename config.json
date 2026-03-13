@@ -81,5 +81,24 @@
     "logged_id" : -5063627363,
     "fw_id": -5115126006,
     "dropbox_folder": "/Target_roy"
+  },
+   "ayame": {
+    "logs_id": -1003841678555,
+    "status": "on",
+    "trade_id": -1003739078202,
+    "rp_id": -1003816231345,
+    "rally_id": -1003862180626,
+    "logged_id" : -1003862180626,
+    "fw_id": -5115126006
+  },
+   "ayame_spec": {
+    "logs_id": -1003841678555,
+    "status": "on",
+    "trade_id": -1003739078202,
+    "rp_id": -1003816231345,
+    "rally_id": -1003862180626,
+    "logged_id" : -1003862180626,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_ayame"
   }
 }
