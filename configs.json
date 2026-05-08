@@ -1,42 +1,152 @@
 {
-  "paco": {
-    "logs_id": -4804273044,
-    "status": "on",
-    "trade_id": -4832348478,
-    "rp_id": -4671295574,
-    "rally_id": -4844644569,
-    "logged_id": -4844644569
-  },
   "gula": {
-    "logs_id": -4808071193,
     "status": "on",
+    "logs_id": -4808071193,
     "trade_id": -4879603495,
     "rp_id": -4968526614,
     "rally_id": -4813966275,
-    "logged_id": -4813966275
+    "logged_id": -4813966275,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_gula",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "Yildi@MSI (4D289C78-5CEB-7D41-82AD-3D85660B80AA)",
+      "Yasmi@yas (F5BA5D1D-67E5-4FA7-C4C6E6BD5871)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.1" },
+      "rp": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.1" },
+      "filler": { "status": "on", "min_version": "0.0.1" },
+      "trade": { "status": "on", "min_version": "0.0.1" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
   },
-  "gen": {
-    "logs_id": -4684981188,
+
+  "bonsch": {
     "status": "on",
+    "logs_id": -1003763398239,
+    "trade_id": -4879603495,
+    "rp_id": -4968526614,
+    "rally_id": -4813966275,
+    "logged_id": -4813966275,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_bonsch",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "sinab@ADMINIS-FD4TAH5 (635EFBCC-29B6-11B2-A85C-9A8A57713FF6)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.1" },
+      "rp": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.1" },
+      "filler": { "status": "on", "min_version": "0.0.1" },
+      "trade": { "status": "on", "min_version": "0.0.1" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
+  },
+
+  "gen": {
+    "status": "on",
+    "logs_id": -4684981188,
     "trade_id": -4921111602,
     "rp_id": -4867938504,
     "rally_id": -4700095864,
-    "logged_id": -4700095864
+    "logged_id": -4700095864,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_gen",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "sassi@DomsLaptop (84FE3CBB-409D-2D4A-AEE6-74D4DD1C71A8)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.1" },
+      "rp": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.1" },
+      "filler": { "status": "on", "min_version": "0.0.1" },
+      "trade": { "status": "on", "min_version": "0.0.1" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
   },
+
   "calin": {
-    "logs_id": -4888464382,
     "status": "on",
+    "logs_id": -4888464382,
     "trade_id": -4925731410,
     "rp_id": -4639867895,
     "rally_id": -4867332932,
-    "logged_id" : -4710426943
+    "logged_id": -4710426943,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_calin",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "itcar@DESKTOP-NTBUFL2 (99AC15C6-9611-9DBA-BDF2-3C7C3F4F83CA)",
+      "ADMIN@DESKTOP-QVIKOA9 (4C4C4544-0058-5710-8047-C8C04F534432)",
+      "Liz@LizPC (921E0004-C8E3-0005-9CD1-50EBF69445F0)",
+      "Bots Company Inc@LAPTOP-90VON7AE (9EBCAA4C-26D8-11B2-A85C-D526762D80DD)",
+      "itcar@G16_7630 (4C4C4544-0050-3710-8054-CAC04F435A33)",
+      "itcar@DellPrecise7670 (4C4C4544-0047-5910-8030-B4C04F4A5733)",
+      "itcar@TufGaming17 (980E1C57-1C55-9942-BCE8-16F95E9EC27A)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.1" },
+      "rp": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.1" },
+      "filler": { "status": "on", "min_version": "0.0.1" },
+      "trade": { "status": "on", "min_version": "0.0.1" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
   },
-  "liz": {
-    "logs_id": -4888464382,
+
+  "roy": {
     "status": "on",
-    "trade_id": -4925731410,
-    "rp_id": -4639867895,
-    "rally_id": -4867332932,
-    "logged_id" : -4710426943
+    "logs_id": -5061937219,
+    "trade_id": -5041614017,
+    "rp_id": -5063022925,
+    "rally_id": -5063627363,
+    "logged_id": -5063627363,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_roy",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "15144@MSI (478939AA-EB9F-4F43-8962-4B85FE4F282C)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.1" },
+      "rp": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.1" },
+      "filler": { "status": "on", "min_version": "0.0.1" },
+      "trade": { "status": "on", "min_version": "0.0.1" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
+  },
+
+  "ayame": {
+    "status": "on",
+    "logs_id": -1003841678555,
+    "trade_id": -1003739078202,
+    "rp_id": -1003816231345,
+    "rally_id": -1003862180626,
+    "logged_id": -1003862180626,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_ayame",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "Dylan@Dylans-PC (3224CAD9-6946-7C1D-A7D2-345A606622EC)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.1" },
+      "rp": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.1" },
+      "filler": { "status": "on", "min_version": "0.0.1" },
+      "trade": { "status": "on", "min_version": "0.0.1" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
   }
 }
