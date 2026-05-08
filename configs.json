@@ -85,7 +85,6 @@
     "allowed_machine_ids": [
       "itcar@DESKTOP-NTBUFL2 (99AC15C6-9611-9DBA-BDF2-3C7C3F4F83CA)",
       "ADMIN@DESKTOP-QVIKOA9 (4C4C4544-0058-5710-8047-C8C04F534432)",
-      "Liz@LizPC (921E0004-C8E3-0005-9CD1-50EBF69445F0)",
       "Bots Company Inc@LAPTOP-90VON7AE (9EBCAA4C-26D8-11B2-A85C-D526762D80DD)",
       "itcar@G16_7630 (4C4C4544-0050-3710-8054-CAC04F435A33)",
       "itcar@DellPrecise7670 (4C4C4544-0047-5910-8030-B4C04F4A5733)",
@@ -93,7 +92,7 @@
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.2" },
       "rp": { "status": "on", "min_version": "0.0.1" },
       "hunt": { "status": "on", "min_version": "0.0.1" },
       "filler": { "status": "on", "min_version": "0.0.1" },
