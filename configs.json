@@ -89,7 +89,8 @@
       "Bots Company Inc@LAPTOP-90VON7AE (9EBCAA4C-26D8-11B2-A85C-D526762D80DD)",
       "itcar@G16_7630 (4C4C4544-0050-3710-8054-CAC04F435A33)",
       "itcar@DellPrecise7670 (4C4C4544-0047-5910-8030-B4C04F4A5733)",
-      "itcar@TufGaming17 (980E1C57-1C55-9942-BCE8-16F95E9EC27A)"
+      "itcar@TufGaming17 (980E1C57-1C55-9942-BCE8-16F95E9EC27A)",
+      "Liz@LizPC (921E0004-C8E3-0005-9CD1-50EBF69445F0)"
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
