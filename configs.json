@@ -15,7 +15,7 @@
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.2" },
       "rp": { "status": "on", "min_version": "0.0.1" },
       "hunt": { "status": "on", "min_version": "0.0.1" },
       "filler": { "status": "on", "min_version": "0.0.1" },
@@ -39,7 +39,7 @@
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.2" },
       "rp": { "status": "on", "min_version": "0.0.1" },
       "hunt": { "status": "on", "min_version": "0.0.1" },
       "filler": { "status": "on", "min_version": "0.0.1" },
@@ -64,7 +64,7 @@
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.2" },
       "rp": { "status": "on", "min_version": "0.0.1" },
       "hunt": { "status": "on", "min_version": "0.0.1" },
       "filler": { "status": "on", "min_version": "0.0.1" },
@@ -94,7 +94,7 @@
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.2" },
       "rp": { "status": "on", "min_version": "0.0.1" },
       "hunt": { "status": "on", "min_version": "0.0.1" },
       "filler": { "status": "on", "min_version": "0.0.1" },
@@ -118,7 +118,7 @@
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.2" },
       "rp": { "status": "on", "min_version": "0.0.1" },
       "hunt": { "status": "on", "min_version": "0.0.1" },
       "filler": { "status": "on", "min_version": "0.0.1" },
@@ -142,7 +142,7 @@
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.1" },
+      "uni": { "status": "on", "min_version": "0.0.2" },
       "rp": { "status": "on", "min_version": "0.0.1" },
       "hunt": { "status": "on", "min_version": "0.0.1" },
       "filler": { "status": "on", "min_version": "0.0.1" },
