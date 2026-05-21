@@ -14,13 +14,13 @@
       "Yasmi@yas (F5BA5D1D-67E5-4FA7-C4C6E6BD5871)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.2" },
-      "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.1" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
-      "trade": { "status": "on", "min_version": "0.0.1" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "on", "min_version": "0.0.3" },
+      "uni": { "status": "on", "min_version": "0.0.3" },
+      "rp": { "status": "on", "min_version": "0.0.3" },
+      "hunt": { "status": "on", "min_version": "0.0.3" },
+      "filler": { "status": "on", "min_version": "0.0.3" },
+      "trade": { "status": "on", "min_version": "0.0.3" },
+      "target": { "status": "on", "min_version": "0.0.3" }
     }
   },
 
@@ -38,13 +38,13 @@
       "sinab@ADMINIS-FD4TAH5 (635EFBCC-29B6-11B2-A85C-9A8A57713FF6)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.2" },
-      "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.1" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
-      "trade": { "status": "on", "min_version": "0.0.1" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "on", "min_version": "0.0.3" },
+      "uni": { "status": "on", "min_version": "0.0.3" },
+      "rp": { "status": "on", "min_version": "0.0.3" },
+      "hunt": { "status": "on", "min_version": "0.0.3" },
+      "filler": { "status": "on", "min_version": "0.0.3" },
+      "trade": { "status": "on", "min_version": "0.0.3" },
+      "target": { "status": "on", "min_version": "0.0.3" }
     }
   },
 
@@ -63,13 +63,13 @@
       "NCG@NCGHOME-002BBDC (9469FCEC-567A-9B16-ADC2-345A6002BBDC)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.2" },
-      "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.1" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
-      "trade": { "status": "on", "min_version": "0.0.1" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "on", "min_version": "0.0.3" },
+      "uni": { "status": "on", "min_version": "0.0.3" },
+      "rp": { "status": "on", "min_version": "0.0.3" },
+      "hunt": { "status": "on", "min_version": "0.0.3" },
+      "filler": { "status": "on", "min_version": "0.0.3" },
+      "trade": { "status": "on", "min_version": "0.0.3" },
+      "target": { "status": "on", "min_version": "0.0.3" }
     }
   },
 
@@ -93,13 +93,13 @@
       "Liz@LizPC (921E0004-C8E3-0005-9CD1-50EBF69445F0)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.2" },
-      "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.1" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
-      "trade": { "status": "on", "min_version": "0.0.1" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "on", "min_version": "0.0.3" },
+      "uni": { "status": "on", "min_version": "0.0.3" },
+      "rp": { "status": "on", "min_version": "0.0.3" },
+      "hunt": { "status": "on", "min_version": "0.0.3" },
+      "filler": { "status": "on", "min_version": "0.0.3" },
+      "trade": { "status": "on", "min_version": "0.0.3" },
+      "target": { "status": "on", "min_version": "0.0.3" }
     }
   },
 
@@ -117,13 +117,13 @@
       "15144@MSI (478939AA-EB9F-4F43-8962-4B85FE4F282C)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.2" },
-      "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.1" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
-      "trade": { "status": "on", "min_version": "0.0.1" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "on", "min_version": "0.0.3" },
+      "uni": { "status": "on", "min_version": "0.0.3" },
+      "rp": { "status": "on", "min_version": "0.0.3" },
+      "hunt": { "status": "on", "min_version": "0.0.3" },
+      "filler": { "status": "on", "min_version": "0.0.3" },
+      "trade": { "status": "on", "min_version": "0.0.3" },
+      "target": { "status": "on", "min_version": "0.0.3" }
     }
   },
 
@@ -141,13 +141,13 @@
       "Dylan@Dylans-PC (3224CAD9-6946-7C1D-A7D2-345A606622EC)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.1" },
-      "uni": { "status": "on", "min_version": "0.0.2" },
-      "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.1" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
-      "trade": { "status": "on", "min_version": "0.0.1" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "on", "min_version": "0.0.3" },
+      "uni": { "status": "on", "min_version": "0.0.3" },
+      "rp": { "status": "on", "min_version": "0.0.3" },
+      "hunt": { "status": "on", "min_version": "0.0.3" },
+      "filler": { "status": "on", "min_version": "0.0.3" },
+      "trade": { "status": "on", "min_version": "0.0.3" },
+      "target": { "status": "on", "min_version": "0.0.3" }
     }
   }
 }
