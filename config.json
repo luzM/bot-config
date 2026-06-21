@@ -9,7 +9,7 @@
   },
   "gula": {
     "logs_id": -4808071193,
-    "status": "on",
+    "status": "off",
     "trade_id": -4879603495,
     "rp_id": -4968526614,
     "rally_id": -4813966275,
@@ -86,7 +86,7 @@
   },
    "roy": {
     "logs_id": -5061937219,
-    "status": "on",
+    "status": "off",
     "trade_id": -5041614017,
     "rp_id": -5063022925,
     "rally_id": -5063627363,
