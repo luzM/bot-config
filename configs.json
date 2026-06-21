@@ -1,5 +1,30 @@
 {
   "gula": {
+    "status": "off",
+    "logs_id": -4808071193,
+    "trade_id": -4879603495,
+    "rp_id": -4968526614,
+    "rally_id": -4813966275,
+    "logged_id": -4813966275,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_gula",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "Yildi@MSI (4D289C78-5CEB-7D41-82AD-3D85660B80AA)",
+      "Yasmi@yas (F5BA5D1D-67E5-4FA7-9A47-C4C6E6BD5871)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "1" },
+      "uni": { "status": "on", "min_version": "1" },
+      "rp": { "status": "on", "min_version": "1" },
+      "hunt": { "status": "on", "min_version": "1" },
+      "filler": { "status": "on", "min_version": "1" },
+      "trade": { "status": "on", "min_version": "1" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
+  },
+  
+   "gula_new": {
     "status": "on",
     "logs_id": -4808071193,
     "trade_id": -4879603495,
@@ -23,7 +48,7 @@
       "target": { "status": "on", "min_version": "0.0.1" }
     }
   },
-
+  
   "bonsch": {
     "status": "on",
     "logs_id": -1003763398239,
