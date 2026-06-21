@@ -14,12 +14,12 @@
       "Yasmi@yas (F5BA5D1D-67E5-4FA7-9A47-C4C6E6BD5871)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.3" },
-      "uni": { "status": "on", "min_version": "0.0.3" },
-      "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.3" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
-      "trade": { "status": "on", "min_version": "0.0.3" },
+      "farm": { "status": "on", "min_version": "1" },
+      "uni": { "status": "on", "min_version": "1" },
+      "rp": { "status": "on", "min_version": "1" },
+      "hunt": { "status": "on", "min_version": "1" },
+      "filler": { "status": "on", "min_version": "1" },
+      "trade": { "status": "on", "min_version": "1" },
       "target": { "status": "on", "min_version": "0.0.1" }
     }
   },
