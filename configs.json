@@ -1,6 +1,6 @@
 {
   "gula": {
-    "status": "on",
+    "status": "off",
     "logs_id": -4808071193,
     "trade_id": -4879603495,
     "rp_id": -4968526614,
@@ -14,18 +14,18 @@
       "Yasmi@yas (F5BA5D1D-67E5-4FA7-9A47-C4C6E6BD5871)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.5" },
-      "uni": { "status": "on", "min_version": "0.0.5" },
-      "rp": { "status": "on", "min_version": "0.0.5" },
-      "hunt": { "status": "on", "min_version": "0.0.5" },
-      "filler": { "status": "on", "min_version": "0.0.5" },
-      "trade": { "status": "on", "min_version": "0.0.5" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "off", "min_version": "0.0.5" },
+      "uni": { "status": "off", "min_version": "0.0.5" },
+      "rp": { "status": "off", "min_version": "0.0.5" },
+      "hunt": { "status": "off", "min_version": "0.0.5" },
+      "filler": { "status": "off", "min_version": "0.0.5" },
+      "trade": { "status": "off", "min_version": "0.0.5" },
+      "target": { "status": "off", "min_version": "0.0.1" }
     }
   },
   
   "gula_new": {
-    "status": "on",
+    "status": "off",
     "logs_id": -4808071193,
     "trade_id": -4879603495,
     "rp_id": -4968526614,
@@ -39,13 +39,13 @@
       "Yasmi@yas (F5BA5D1D-67E5-4FA7-9A47-C4C6E6BD5871)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "1" },
-      "uni": { "status": "on", "min_version": "1" },
-      "rp": { "status": "on", "min_version": "1" },
-      "hunt": { "status": "on", "min_version": "1" },
-      "filler": { "status": "on", "min_version": "1" },
-      "trade": { "status": "on", "min_version": "1" },
-      "target": { "status": "on", "min_version": "0.0.1" }
+      "farm": { "status": "off", "min_version": "1" },
+      "uni": { "status": "off", "min_version": "1" },
+      "rp": { "status": "off", "min_version": "1" },
+      "hunt": { "status": "off", "min_version": "1" },
+      "filler": { "status": "off", "min_version": "1" },
+      "trade": { "status": "off", "min_version": "1" },
+      "target": { "status": "off", "min_version": "0.0.1" }
     }
   },
   
