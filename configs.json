@@ -60,7 +60,7 @@
     "dropbox_folder": "/Target_bonsch",
     "machine_warn_id": -1003703352300,
     "allowed_machine_ids": [
-      "sinab@ADMINIS-FD4TAH5 (635EFBCC-29B6-11B2-A85C-9A8A57713FF6)"
+      "Sina@NB-SINA (635EFBCC-29B6-11B2-A85C-9A8A57713FF6)"
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.3" },
