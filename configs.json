@@ -138,7 +138,7 @@
     "dropbox_folder": "/Target_calin",
     "machine_warn_id": -1003703352300,
     "allowed_machine_ids": [
-      "Liz@LizPC (921E0004-C8E3-0005-9CD1-50EBF69445F0)"
+      "elmur@Mini (1168ECBD-1647-EF4B-8B47-A8595F9A990D)"
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.3" },
