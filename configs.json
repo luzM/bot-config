@@ -127,6 +127,29 @@
       "target": { "status": "on", "min_version": "0.0.1" }
     }
   },
+  "jose": {
+    "status": "on",
+    "logs_id": -4888464382,
+    "trade_id": -4925731410,
+    "rp_id": -4639867895,
+    "rally_id": -4867332932,
+    "logged_id": -4710426943,
+    "fw_id": -5115126006,
+    "dropbox_folder": "/Target_calin",
+    "machine_warn_id": -1003703352300,
+    "allowed_machine_ids": [
+      "Liz@LizPC (921E0004-C8E3-0005-9CD1-50EBF69445F0)"
+    ],
+    "bots": {
+      "farm": { "status": "on", "min_version": "0.0.3" },
+      "uni": { "status": "on", "min_version": "0.0.3" },
+      "rp": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.3" },
+      "filler": { "status": "on", "min_version": "0.0.1" },
+      "trade": { "status": "on", "min_version": "0.0.3" },
+      "target": { "status": "on", "min_version": "0.0.1" }
+    }
+  },
 
   "roy": {
     "status": "on",
