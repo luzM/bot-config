@@ -86,7 +86,7 @@
     "allowed_machine_ids": [
       "sassi@DomsLaptop (84FE3CBB-409D-2D4A-AEE6-74D4DD1C71A8)",
       "NCG@NCGHOME-002BBDC (9469FCEC-567A-9B16-ADC2-345A6002BBDC)",
-      "chris@room (23A50F7C-ADA0-A619-AA61-D843AE544EA3)"
+      "Machine: chris@room (84124079868352)"
     ],
     "bots": {
       "farm": { "status": "on", "min_version": "0.0.3" },
