@@ -191,11 +191,11 @@
       "Dylan@Dylans-PC (3224CAD9-6946-7C1D-A7D2-345A606622EC)"
     ],
     "bots": {
-      "farm": { "status": "on", "min_version": "0.0.3" },
-      "uni": { "status": "on", "min_version": "0.0.3" },
+      "farm": { "status": "on", "min_version": "0.0.5" },
+      "uni": { "status": "on", "min_version": "0.0.5" },
       "rp": { "status": "on", "min_version": "0.0.1" },
-      "hunt": { "status": "on", "min_version": "0.0.3" },
-      "filler": { "status": "on", "min_version": "0.0.1" },
+      "hunt": { "status": "on", "min_version": "0.0.5" },
+      "filler": { "status": "on", "min_version": "0.0.5" },
       "trade": { "status": "on", "min_version": "0.0.3" },
       "target": { "status": "on", "min_version": "0.0.1" }
     }
